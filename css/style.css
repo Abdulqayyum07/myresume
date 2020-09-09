@@ -1,0 +1,10 @@
+progress{
+border: 10px grey;
+border-radius: 15px;
+width: 30px
+}
+bar1{
+    border:50px rgb(24, 170, 196);
+    border-radius: 10px;
+    width:150px
+}
